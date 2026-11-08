@@ -10,9 +10,6 @@ This guide provides the theoretical foundations and practical knowledge required
 - RF Compliance Analysts
 - RF Engineers
 - Telecommunications Engineers
-- Wireless Consultants
-- Wireless Site Acquisition Specialists
-- Tower and Rooftop Compliance Reviewers
 
 ### Topics Covered
 
